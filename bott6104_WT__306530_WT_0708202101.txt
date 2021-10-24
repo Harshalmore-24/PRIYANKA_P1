@@ -1,0 +1,14 @@
+:20:667494
+:32A:2021070820210708USD100,00
+:50:/3302093096 
+Sillicon Valley Bank
+500 7th Avenue
+Floor 18 New York, NY 10018
+:57A:/SVBKUS6SXXX
+875 Stevenson St. 5th Floor
+San Francisco CA 94103
+:59:/011401533
+EFT SVB Test Vendor
+:70:cwgp test tranid
+:72:Stash Remittance
+:END:
